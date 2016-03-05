@@ -4,4 +4,4 @@ This is a matlab file. This program will take digitalized blood smear image as i
 
 
 
-![alt text](160302002.pdf)
+[embed]http:/160302002.pdf[/embed]
