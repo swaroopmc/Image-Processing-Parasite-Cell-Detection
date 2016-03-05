@@ -4,4 +4,4 @@ This is a matlab file. This program will take digitalized blood smear image as i
 
 
 
-[embed]http://160302002.pdf[/embed]
+[embed]https://github.com/swaroopmc/Image-Processing-Parasite-Cell-Detection/blob/master/160302002.pdf[/embed]
