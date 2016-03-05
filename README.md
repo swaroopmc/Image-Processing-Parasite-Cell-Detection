@@ -2,6 +2,9 @@
 This is a matlab file. This program will take digitalized blood smear image as input and remove noise, do image processing on it and finally output with number of parasite cells detected.
 
 
+[embed]Image-Processing-Parasite-Cell-Detection/160302002.pdf[/embed]
+
+
 
 
 
